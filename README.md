@@ -51,6 +51,16 @@ The **Elbow Method** was used to determine the optimal number of clusters, and *
 
 ---
 
+## Code
+
+# File overview:
+
+* clustering.ipynb – Jupyter notebook containing data cleaning, feature engineering, exploratory data analysis, K-Means clustering, and PCA-based visualization.
+
+* customer_segmentation.csv – Customer dataset used for segmentation and analysis.
+
+---
+
 ## Technologies Used
 
 * Python
